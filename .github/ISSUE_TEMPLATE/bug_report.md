@@ -33,8 +33,8 @@ If applicable, add screenshots to help explain your problem.
  - Launcher [e.g. MultiMC, Vanilla]
 
 **Logs (More info [here](https://raw.githubusercontent.com/Daniel99j2/Magma-Network/main/.github/minecraft-logs.jpg))**
-- Minecraft logs [upload to [mclo.gs](mclo.gs)]
-- Crash report, if nessisary [upload to [mclo.gs](mclo.gs)]
+- Minecraft logs [upload to [mclo.gs](https://mclo.gs)]
+- Crash report, if nessisary [upload to [mclo.gs](https://mclo.gs)]
 
 **Additional context**
 Add any other context about the problem here.
