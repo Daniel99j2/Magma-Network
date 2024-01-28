@@ -32,7 +32,7 @@ If applicable, add screenshots to help explain your problem.
  - Loader: [e.g. Vanilla]
  - Launcher [e.g. MultiMC, Vanilla]
 
-**Logs (More info [here](test.com)
+**Logs (More info [here](test.com))**
 - Minecraft logs
 - Crash report, if nessicary
 
